@@ -1,0 +1,17 @@
+{
+  "name": "hammap",
+  "version": "0.0.1",
+  "description": "Karta över radioamatörer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hans Insulander <hans@codium.se>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "nunjucks": "^3.0.0",
+    "request": "^2.81.0"
+  }
+}
